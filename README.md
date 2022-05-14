@@ -2,7 +2,7 @@
 
 ## Vietnam
 
-|   Tên   | Liên Hệ | Sản Phẩm | Chú ý | Xuất hóa đơn? |
+|   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
 | TKTech | [Website](https://tktech.vn/) | `Thiết bị đo` | HCM |
 | MCA | [Website](https://mcamotioncontrol.com) | `Linh kiện`, `thiết bị` | BD |
